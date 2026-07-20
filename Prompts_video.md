@@ -9,15 +9,17 @@
 复杂综合案例（极限施压）：主角摘下护目镜（图/视频局部编辑），露出满是冻伤但眼神极其坚毅、充满自豪的脸庞，风雪吹打着他大衣的毛领。测试模型在风雪粒子特效全屏飞舞的极端干扰下，能否保持角色面部特征的绝对稳定，并让激昂的语调与主角挺拔的体态完全对齐。
 ```
 
-
-
-<source src="[movie.mp4](https://www.youtube.com/watch?v=iUKQ81nr2XQ)" type="video/mp4">
-
-<video width="320" height="240" controls>
-  <source src="[video.mov](https://www.youtube.com/watch?v=iUKQ81nr2XQ)" type="video/mp4">
-</video>
-
-
-[![Watch the video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=iUKQ81nr2XQ)
 [![Watch the video](https://img.youtube.com/vi/iUKQ81nr2XQ/0.jpg)](https://www.youtube.com/watch?v=iUKQ81nr2XQ)
-[![Watch the video]](https://www.youtube.com/watch?v=iUKQ81nr2XQ)
+
+
+## 【困惑】—— 平行时空的错位记忆 Wan 2.7
+```
+【困惑】—— 平行时空的错位记忆
+情绪焦点：测试烧脑叙事、眼神躲闪/疑惑的微表情，以及一句话反转的智能化改写。
+场景设计：一间老旧的房间，墙上挂着镜子。
+镜头测试：主观镜头与镜面反射镜头的快速Match Cut（动作对切）。
+人物声音内对话：中年男子（语速迟疑、带有自我怀疑的喃喃自语：“不对……这照片里的人，根本不是我……”）。
+复杂综合案例（极限施压）：主角看着手里的老照片（输入一张特定角色参考图），照片里的人是他，但当他抬头看镜子时，镜子里的自己却穿着完全不同的衣服，甚至是不同的年龄（通过自然语言指令改写剧情）。测试 Wan2.7 在角色表达“困惑”（眉头紧锁、眼神飘忽、欲言又止）这种复杂复合心理时，对多重参考（照片、镜面、现实）的跨维度一致性处理能力。
+```
+
+[![Watch the video](https://img.youtube.com/vi/GFR0R4Vi6xc/0.jpg)](https://www.youtube.com/watch?v=GFR0R4Vi6xc)
