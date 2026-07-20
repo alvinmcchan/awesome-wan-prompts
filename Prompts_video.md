@@ -25,3 +25,6 @@ allowfullscreen>
 <video width="320" height="240" controls>
   <source src="[video.mov](https://youtu.be/iUKQ81nr2XQ)" type="video/mp4">
 </video>
+
+
+[![Watch the video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
