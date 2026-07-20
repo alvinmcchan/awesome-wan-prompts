@@ -9,23 +9,15 @@
 复杂综合案例（极限施压）：主角摘下护目镜（图/视频局部编辑），露出满是冻伤但眼神极其坚毅、充满自豪的脸庞，风雪吹打着他大衣的毛领。测试模型在风雪粒子特效全屏飞舞的极端干扰下，能否保持角色面部特征的绝对稳定，并让激昂的语调与主角挺拔的体态完全对齐。
 ```
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iUKQ81nr2XQ?si=7s3sNrg10DYKzM59" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-
-<iframe width="640" height="360"
-src="https://youtu.be/iUKQ81nr2XQ"
-frameborder="0"
-allowfullscreen>
-</iframe>
-
-
-<source src="[movie.mp4](https://youtu.be/iUKQ81nr2XQ)" type="video/mp4">
+<source src="[movie.mp4](https://www.youtube.com/watch?v=iUKQ81nr2XQ)" type="video/mp4">
 
 <video width="320" height="240" controls>
-  <source src="[video.mov](https://youtu.be/iUKQ81nr2XQ)" type="video/mp4">
+  <source src="[video.mov](https://www.youtube.com/watch?v=iUKQ81nr2XQ)" type="video/mp4">
 </video>
 
 
 [![Watch the video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=iUKQ81nr2XQ)
+[![Watch the video](https://img.youtube.com/vi/iUKQ81nr2XQ/0.jpg)](https://www.youtube.com/watch?v=iUKQ81nr2XQ)
 [![Watch the video]](https://www.youtube.com/watch?v=iUKQ81nr2XQ)
