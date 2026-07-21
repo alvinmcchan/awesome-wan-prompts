@@ -1,3 +1,8 @@
+万相AI生视频—使用指南
+https://alidocs.dingtalk.com/i/nodes/jb9Y4gmKWrx9eo4dCql9LlbYJGXn6lpz
+
+
+
 # Awesome GPT Image 2 API and Prompts
 
 <div align="center">
