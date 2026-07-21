@@ -5,6 +5,18 @@ A hyper-realistic miniature diorama product advertisement featuring an oversized
 <img src="images/wan0001.png" width="300" alt=""></a> 
 
 
+```
+Please generate four lifestyle portrait photos of the model from Image 1 wearing the outfit from Image 2. The outfit features a high-end, luxurious black velvet long-sleeved top with a deep V-neck, subtly revealing a delicate white floral lace inner layer at the neckline. The bottom is paired with matching black loose-fit velvet trousers. The four scenes are as follows: 1. By a cast-iron railing on a balcony. 2. Inside a cozy and vintage-style study. 3. On a European city street. 4. In a semi-outdoor Western restaurant with a lively and soulful atmosphere. The images should be highly realistic, with vibrant colors and delicate textures, fully capturing an infectious and romantic lifestyle vibe.
+```
+
+
+<img src="images/wan0002-1.avif" width="300" alt=""></a> 
+<img src="images/wan0002-2.avif" width="300" alt=""></a> 
+<img src="images/wan0002-3.png" width="300" alt=""></a> 
+
+
+
+
 <div align="center">
 
 <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=banner&utm_campaign=awesome-gpt-image-2-API-and-Prompts"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/logo.png" alt="项目 Logo"></a>
