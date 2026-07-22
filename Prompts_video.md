@@ -63,6 +63,13 @@ Prompts_video_camer_movement.md
 提示词公式 / Prompt Formula
 Prompts_video_Prompt_Formula.md
 
+
+
+
+
+
+
+
 ## 首尾帧 Wan 2.7
 ```
 A beautiful young woman with long blonde hair and a feminine figure playfully takes off her fluffy pink faux-fur coat, twirls and poses with confidence. She blows a charming air kiss toward the camera. Her expression is flirty and elegant. She wears a silky pink dress that flows as she spins. Soft cinematic lighting, warm tones, shallow depth of field, high-fashion magazine editorial style, detailed textures, glamorous accessories, luxurious atmosphere, smooth motion, joyful mood.
